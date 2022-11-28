@@ -77,13 +77,13 @@ Pesagens: 1
 ```
 **Moedas**
 ```
-[2,2,2,1]
+[2,1]
 ```
 **Saída**
 ```
-Moedas: [2,2,2,2, 1]
-Posição da moeda falsa: 0
-Pesagens: 2
+Moedas: [2,1]
+Posição da moeda falsa: 1
+Pesagens: 1
 ```
 ***
 
