@@ -27,7 +27,6 @@ para encotrar a moeda falsa.
    * Não utilize funções internas para persquisar a moeda falsa.
    Exemplo:
 ```python
-moedas.get(1)
 moedas.index(1)
 ```
    * Tente fazer com que a quantidade de pesagens seja menor que pelo menos metade da lista de moedas.
