@@ -1,12 +1,12 @@
 ## 🪙 Moeda Falsa
 
-#### Dado um conjunto de moedas, sendo uma delas falsa, deseja-se saber através de uma balança qual a moeda falsa, uma vez que seu peso é menor que as demais.
+#### Dado um conjunto de moedas, deseja-se encontrar uma moeda falsa, que possui um peso menor que as demais moedas. 
 
 ***
 
-Seja uma lista com "n" elementos representando moedas. Escreva
-um programa que determine a posição da
-moeda falsa com a menor quantidade de
+Considere uma lista `moedas` com *n* elementos representando as moedas. 
+Escreva um programa que simule o processo de pesagem de uma balança de dois pratos. 
+Sua missão é determinar a posição da moeda falsa com a menor quantidade de
 pesagens possível. As moedas verdadeiras 
 podem ser representadas por 2 e a moeda 
 falsa por 1.
