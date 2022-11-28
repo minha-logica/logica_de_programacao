@@ -1,6 +1,6 @@
 ## 🪙 Moeda Falsa
 
-#### Dado um conjunto de moedas, sendo uma delas falsa, deseja-se saber através de uma balança qual a moeda falsa sabendo que seu peso é menor que as demais.
+#### Dado um conjunto de moedas, sendo uma delas falsa, deseja-se saber através de uma balança qual a moeda falsa, uma vez que seu peso é menor que as demais.
 
 ***
 
