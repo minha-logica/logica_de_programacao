@@ -96,4 +96,4 @@ A resolução comentada desse exercício sai em breve!
 
 [Busca Binária](https://pt.m.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
 
-Obs: a resolução do problema é um pouco diferente da pesquisa binária que conhecemos, já que não podemos verificar diretamente se o elemento é igual a 1, mas sim fazer sucessivas comparações de desigualdades entre os elementos tal qual um balança de dois pratos o faria.
+Obs: a resolução do problema é um pouco diferente da pesquisa binária que conhecemos, já que não podemos verificar diretamente se o elemento é igual a 1, mas sim fazer sucessivas comparações entre os elementos tal qual um balança de dois pratos o faria.
