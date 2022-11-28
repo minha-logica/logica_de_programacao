@@ -89,7 +89,7 @@ Pesagens: 1
 Dica: seu programa deve ser capaz de determinar uma moeda falsa em uma posição aleatória de uma lista com n elementos. Use isso para testar diferentes valores.
 
 Solução disponível em `moedafalsa.py`
-A resolução comentada desse exercício sai em breve!
+A resolução comentada desse exercício sairá em breve!
 
 
 ## Complementar
