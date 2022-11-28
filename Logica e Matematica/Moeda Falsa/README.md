@@ -90,3 +90,10 @@ Dica: seu programa deve ser capaz de determinar uma moeda falsa em uma posição
 
 Solução disponível em `moedafalsa.py`
 A resolução comentada desse exercício sai em breve!
+
+
+## Complementar
+
+[Busca Binária](https://pt.m.wikipedia.org/wiki/Pesquisa_bin%C3%A1ria)
+
+
