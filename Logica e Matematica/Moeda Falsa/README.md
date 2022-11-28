@@ -3,7 +3,20 @@
 #### Dado um conjunto de moedas, deseja-se encontrar uma moeda falsa, que possui um peso menor que as demais moedas. 
 
 ***
+## Contextualizando
+Suponha que você está participando de um programa de TV e 
+lhe é proposto o desafio de descobrir qual é a moeda falsa dentre
+8 moedas de ouro, sabendo que, a moeda falsa pesa menos que as demais. Para isso,
+a equipe de produção forneceu uma balança de dois pratos. Você só terá duas chances.
+Se conseguir achar a moeda com menos de 2 pesagens em uma das 
+chances você ganha as moedas de ouro. Com um pouco de sorte
+e de lógica você poderia conseguir isso se pesasse a metade das moedas com a outra metade, 
+eliminando a metade mais pesada. Você poderia 
+repetir esse processo até encontrar a moeda mais leve ou a moeda falsa. Mas 
+e se fossem um número `n` de moedas e você tivesse que escrever um algoritmo pra isso?
 
+
+## Desafio
 Considere uma lista `moedas` com *n* elementos representando as moedas. 
 Escreva um programa que simule o processo de pesagem de uma balança de dois pratos. 
 Sua missão é determinar a posição da moeda falsa com a menor quantidade de
@@ -30,6 +43,8 @@ para encotrar a moeda falsa.
 moedas.index(1)
 ```
    * Tente fazer com que a quantidade de pesagens seja menor que pelo menos metade da lista de moedas.
+   
+
 
 ### Exemplos
 
