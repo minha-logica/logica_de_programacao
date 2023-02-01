@@ -4,7 +4,7 @@
 
 * * *
 
-Neste exercício, você deve escrever um programa que dado dois números inteiro *a e c* calcule *a* elevado a *b* utilizando apenas operações de soma e estruturas de repetição (`for` ou `while`). O programa deve receber 2 valores e retornar outro inteiro, como nos exemplos abaixo.
+Neste exercício, você deve escrever um programa que dado dois números inteiro *a e c* calcule $a^b$ *a* elevado a *b* utilizando apenas operações de soma e estruturas de repetição (`for` ou `while`). O programa deve receber 2 valores e retornar outro inteiro, como nos exemplos abaixo.
 
 #### Exemplos:
 
